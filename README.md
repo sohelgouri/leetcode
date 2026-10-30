@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sohelgouri/leetcode/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sohelgouri/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sohelgouri/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
