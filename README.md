@@ -55,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/sohelgouri/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/sohelgouri/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
