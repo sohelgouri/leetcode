@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sohelgouri/leetcode/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohelgouri/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/sohelgouri/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sohelgouri/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sohelgouri/leetcode/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
+| [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
+| [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Quicksort
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sohelgouri/leetcode/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
