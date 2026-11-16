@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sohelgouri/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sohelgouri/leetcode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/sohelgouri/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sohelgouri/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sohelgouri/leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/sohelgouri/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sohelgouri/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sohelgouri/leetcode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/sohelgouri/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sohelgouri/leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sohelgouri/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
