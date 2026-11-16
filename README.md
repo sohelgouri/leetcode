@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sohelgouri/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sohelgouri/leetcode/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/sohelgouri/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sohelgouri/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sohelgouri/leetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/sohelgouri/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
